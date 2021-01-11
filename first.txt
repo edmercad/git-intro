@@ -1,2 +1,4 @@
 -Letters and social aims. Quotation and originality. Ralph Waldo Emerson.
 Our best thoughts come from others
+
+Editing for remote git example
